@@ -1,0 +1,7 @@
+langchain
+langgraph
+tavily-api
+faiss-cpu
+chromadb
+openai
+python-dotenv
